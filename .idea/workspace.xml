@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7f8cd808-2d5f-4d8d-823e-0df7e92aa885" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bitstarter.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="7f8cd808-2d5f-4d8d-823e-0df7e92aa885" time="1374266679485" ignored="false" />
-    <file path="/index.html" changelist="7f8cd808-2d5f-4d8d-823e-0df7e92aa885" time="1375899698372" ignored="false" />
+    <file path="/index.html" changelist="7f8cd808-2d5f-4d8d-823e-0df7e92aa885" time="1375899854080" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="219" column="23" selection-start="7569" selection-end="7569" vertical-scroll-proportion="0.4480946">
+            <state line="152" column="54" selection-start="4476" selection-end="4476" vertical-scroll-proportion="0.39421815">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -323,7 +322,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="219" column="23" selection-start="7569" selection-end="7569" vertical-scroll-proportion="0.4480946">
+        <state line="152" column="54" selection-start="4476" selection-end="4476" vertical-scroll-proportion="0.39421815">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
